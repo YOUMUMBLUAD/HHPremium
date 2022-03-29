@@ -46,7 +46,7 @@ TextButton.BorderSizePixel = 3
 TextButton.Position = UDim2.new(0.0639386177, 0, 0.173228353, 0)
 TextButton.Size = UDim2.new(0, 200, 0, 50)
 TextButton.Font = Enum.Font.SourceSansBold
-TextButton.Text = "$Kick verbalcheat users"
+TextButton.Text = "$Kick harlemhub users"
 TextButton.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton.TextSize = 20.000
 TextButton.MouseButton1Down:connect(function()
@@ -59,7 +59,7 @@ TextButton_2.BorderSizePixel = 3
 TextButton_2.Position = UDim2.new(0.0639386177, 0, 0.57874012, 0)
 TextButton_2.Size = UDim2.new(0, 200, 0, 50)
 TextButton_2.Font = Enum.Font.SourceSansBold
-TextButton_2.Text = "$Fling verbalcheat users"
+TextButton_2.Text = "$Fling harlemhub users"
 TextButton_2.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton_2.TextSize = 20.000
 TextButton_2.MouseButton1Down:connect(function()
@@ -72,7 +72,7 @@ TextButton_3.BorderSizePixel = 3
 TextButton_3.Position = UDim2.new(0.603580534, 0, 0.173228353, 0)
 TextButton_3.Size = UDim2.new(0, 181, 0, 50)
 TextButton_3.Font = Enum.Font.SourceSansBold
-TextButton_3.Text = "$Kill verbalcheat users"
+TextButton_3.Text = "$Kill harlemhub users"
 TextButton_3.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton_3.TextSize = 20.000
 TextButton_3.MouseButton1Down:connect(function()
@@ -86,7 +86,7 @@ TextButton_4.BorderSizePixel = 3
 TextButton_4.Position = UDim2.new(0.603580534, 0, 0.57874012, 0)
 TextButton_4.Size = UDim2.new(0, 181, 0, 50)
 TextButton_4.Font = Enum.Font.SourceSansBold
-TextButton_4.Text = "$Bring verbalcheat users"
+TextButton_4.Text = "$Bring harlemhub users"
 TextButton_4.TextColor3 = Color3.fromRGB(255, 255, 255)
 TextButton_4.TextSize = 20.000
 else
